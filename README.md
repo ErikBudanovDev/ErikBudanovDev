@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @ErikBudanov
-- 👀 I’m interested in JavaScript and Web technologies
-- 💞️ I’m looking to collaborate on different projects 
-- 📫 How to reach me erik.budanov@gmail.com
